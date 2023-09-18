@@ -23,11 +23,6 @@ This repository is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [your email address].
-
-## Last updated: 2023-09-13 15:30:26 PST
+If you have any questions or feedback, please feel free to contact me at muhamkor@gmail.com.
 
 
-You can customize this message to fit your specific needs and projects. For example, you can add more details about each project, or you can include a link to your website or blog.
-
-I hope this helps!
