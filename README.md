@@ -4,12 +4,19 @@ This repository contains all of my Data Science projects. The projects are organ
 
 The projects in this repository cover a variety of topics, including:
 
-* Natural language processing
-* Machine learning
-* Computer vision
+
+* Data Cleaning and Processing
+* SQL Database Querying
+* Exploratory Data Analysis (EDA)
 * Time series analysis
+* Linear Regression Analysis
 * Data visualization
 * Data mining
+* Classification with Logistic Regression
+* Natural language processing
+* Machine learning
+* Predictive Modeling
+* Computer vision
 
 I am always working on new projects, so please check back often!
 
