@@ -13,7 +13,6 @@ The projects in this repository cover a variety of topics, including:
 * Data visualization
 * Data mining
 * Classification with Logistic Regression
-* Natural language processing
 * Machine learning
 * Predictive Modeling
 * Computer vision
